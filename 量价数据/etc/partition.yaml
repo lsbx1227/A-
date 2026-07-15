@@ -1,0 +1,5 @@
+sources:
+  market_trading/tushare_stockdaily:
+    partition_by: [ts_code, date]
+    module: market_trading.tushare_stockdaily.tushare_stockdaily
+    class: TushareStockDailyCrawler

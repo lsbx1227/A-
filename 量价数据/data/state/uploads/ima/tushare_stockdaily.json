@@ -1,0 +1,92 @@
+{
+  "source": "tushare_stockdaily",
+  "uploads": {
+    "000001.SZ/2026-07-10/px_f8260f3a__v1.md": {
+      "content_hash": "2e228967703d55b066b62e489bf6bcb8bfa777b712a85042e1a609cfa7b5aac9",
+      "status": "uploaded",
+      "title": "px_f8260f3a__v1.md",
+      "media_id": "markdown_6dc46f9101bc76a5823d513b76aa2b85_fe51fca43f8023a5bb450c53dac858aa7482698029352374",
+      "knowledge_base_id": "V62GIVH-U7o-aZ5oS1yFwjmTfc8c5re6M0G1uZpCEc4=",
+      "folder_id": "folder_7482970592005059",
+      "uploaded_at": "2026-07-15T09:33:41"
+    },
+    "000001.SZ/2026-07-13/px_b7cb3df8__v1.md": {
+      "content_hash": "5fa48e732b6abc8f253432e9d35a5d3cdab5199d6d0422f0732ba01c486b440c",
+      "status": "uploaded",
+      "title": "px_b7cb3df8__v1.md",
+      "media_id": "markdown_6dc46f9101bc76a5823d513b76aa2b85_414e6f5bc03acd7c1f8f7eb40265940a7482698029352374",
+      "knowledge_base_id": "V62GIVH-U7o-aZ5oS1yFwjmTfc8c5re6M0G1uZpCEc4=",
+      "folder_id": "folder_7482970621364651",
+      "uploaded_at": "2026-07-15T09:33:48"
+    },
+    "600519.SH/2026-07-10/px_bfd168c0__v1.md": {
+      "content_hash": "7edb1ac77f9bfeb9e874a0870694d030c68d76cd961bf19a0df46373329d89b3",
+      "status": "uploaded",
+      "title": "px_bfd168c0__v1.md",
+      "media_id": "markdown_6dc46f9101bc76a5823d513b76aa2b85_bff1ee9cc4233baea5273f1d44e3cbe27482698029352374",
+      "knowledge_base_id": "V62GIVH-U7o-aZ5oS1yFwjmTfc8c5re6M0G1uZpCEc4=",
+      "folder_id": "folder_7482970671694375",
+      "uploaded_at": "2026-07-15T09:33:59"
+    },
+    "600519.SH/2026-07-13/px_5a668e06__v1.md": {
+      "content_hash": "6d83d51e9998479bd25cc2370579b6f07cd98f128fdaeb308ffa4adfa8806b95",
+      "status": "uploaded",
+      "title": "px_5a668e06__v1.md",
+      "media_id": "markdown_6dc46f9101bc76a5823d513b76aa2b85_a42c9fc019f7b9593f50ebb4f4e6a5107482698029352374",
+      "knowledge_base_id": "V62GIVH-U7o-aZ5oS1yFwjmTfc8c5re6M0G1uZpCEc4=",
+      "folder_id": "folder_7482970696862963",
+      "uploaded_at": "2026-07-15T09:34:06"
+    }
+  },
+  "folders": {
+    "tushare_stockdaily": {
+      "folder_id": "folder_7482970571038007",
+      "name": "tushare_stockdaily",
+      "parent_folder_id": null,
+      "status": "created",
+      "updated_at": "2026-07-15T09:33:31"
+    },
+    "tushare_stockdaily/000001.SZ": {
+      "folder_id": "folder_7482970579419905",
+      "name": "000001.SZ",
+      "parent_folder_id": "folder_7482970571038007",
+      "status": "created",
+      "updated_at": "2026-07-15T09:33:33"
+    },
+    "tushare_stockdaily/000001.SZ/2026-07-10": {
+      "folder_id": "folder_7482970592005059",
+      "name": "2026-07-10",
+      "parent_folder_id": "folder_7482970579419905",
+      "status": "created",
+      "updated_at": "2026-07-15T09:33:36"
+    },
+    "tushare_stockdaily/000001.SZ/2026-07-13": {
+      "folder_id": "folder_7482970621364651",
+      "name": "2026-07-13",
+      "parent_folder_id": "folder_7482970579419905",
+      "status": "created",
+      "updated_at": "2026-07-15T09:33:44"
+    },
+    "tushare_stockdaily/600519.SH": {
+      "folder_id": "folder_7482970654922071",
+      "name": "600519.SH",
+      "parent_folder_id": "folder_7482970571038007",
+      "status": "created",
+      "updated_at": "2026-07-15T09:33:52"
+    },
+    "tushare_stockdaily/600519.SH/2026-07-10": {
+      "folder_id": "folder_7482970671694375",
+      "name": "2026-07-10",
+      "parent_folder_id": "folder_7482970654922071",
+      "status": "created",
+      "updated_at": "2026-07-15T09:33:55"
+    },
+    "tushare_stockdaily/600519.SH/2026-07-13": {
+      "folder_id": "folder_7482970696862963",
+      "name": "2026-07-13",
+      "parent_folder_id": "folder_7482970654922071",
+      "status": "created",
+      "updated_at": "2026-07-15T09:34:01"
+    }
+  }
+}

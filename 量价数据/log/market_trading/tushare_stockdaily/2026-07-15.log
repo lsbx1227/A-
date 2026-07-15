@@ -1,0 +1,11 @@
+2026-07-15 09:33:31,676 INFO IMA folder created: tushare_stockdaily
+2026-07-15 09:33:33,872 INFO IMA folder created: tushare_stockdaily/000001.SZ
+2026-07-15 09:33:36,669 INFO IMA folder created: tushare_stockdaily/000001.SZ/2026-07-10
+2026-07-15 09:33:41,984 INFO IMA uploaded: 000001.SZ/2026-07-10/px_f8260f3a__v1.md
+2026-07-15 09:33:44,285 INFO IMA folder created: tushare_stockdaily/000001.SZ/2026-07-13
+2026-07-15 09:33:48,339 INFO IMA uploaded: 000001.SZ/2026-07-13/px_b7cb3df8__v1.md
+2026-07-15 09:33:52,296 INFO IMA folder created: tushare_stockdaily/600519.SH
+2026-07-15 09:33:55,508 INFO IMA folder created: tushare_stockdaily/600519.SH/2026-07-10
+2026-07-15 09:33:59,547 INFO IMA uploaded: 600519.SH/2026-07-10/px_bfd168c0__v1.md
+2026-07-15 09:34:01,933 INFO IMA folder created: tushare_stockdaily/600519.SH/2026-07-13
+2026-07-15 09:34:06,976 INFO IMA uploaded: 600519.SH/2026-07-13/px_5a668e06__v1.md

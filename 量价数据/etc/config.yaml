@@ -1,0 +1,4 @@
+root: C:/Users/Admin/Documents/股票知识库/量价数据
+http_timeout_seconds: 20
+ima_upload_timeout_seconds: 30
+ima_max_markdown_bytes: 10485760
